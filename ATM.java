@@ -1,5 +1,3 @@
-package mini.project;
-
 import java.util.HashMap;
 import java.util.Scanner;
 
